@@ -49,9 +49,9 @@
                 <a class="blue" href="<%= process.env.SITE_URL+comment_list[i].get('url')+'#' + comment_list[i].get('objectId') %>" target="_blank" rel="nofollow">查看评论</a>
                 <% if (comment_list[i].get('rid')) { %>
                 <% if(comment_list[i].get('isNotified')) { %>
-                <span class="spacer">•</span><span class="vtime">通知已送达</span>
+                <span class="spacer">•</span><span class="vtime" style="color: green">通知已送达</span>
                 <% } else { %>
-                <span class="spacer">•</span>
+                <span class="spacer" style="color: red">•</span>
                 <a href="/comments/resend-email?id=<%= comment_list[i].get('objectId') %>" rel="nofollow">重发通知邮件</a>
                 <% } %>
                 <% } %>
