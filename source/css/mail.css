@@ -18,7 +18,7 @@ p {
 }
 
 #wrap {
-  width: 530px;
+  width: 600px;
   margin: 20px auto 0;
   height: 1000px;
 }
@@ -45,7 +45,7 @@ h1 {
   bottom: 128px;
   left: 0px;
   background: url('https://cdn.jsdelivr.net/gh/Akilarlxh/Valine-Admin/source/img/before.png');
-  width: 530px;
+  width: 600px;
   height: 317px;
 }
 
@@ -55,7 +55,7 @@ h1 {
   bottom: 0px;
   left: 0;
   background: url('https://cdn.jsdelivr.net/gh/Akilarlxh/Valine-Admin/source/img/after.png');
-  width: 530px;
+  width: 600px;
   height: 259px;
 }
 
@@ -104,6 +104,7 @@ form {
   padding: 5px 30px;
   margin: -25px auto 0;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.30);
+  width: inherit;
 }
 
 #title3 {
