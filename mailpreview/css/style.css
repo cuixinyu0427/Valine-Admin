@@ -100,7 +100,7 @@ form {
 #title1 {
   color: white;
   z-index: 999;
-  background: rgb(147, 227, 235);
+  background: rgb(246, 214, 175);
   padding: 5px 30px;
   margin: -25px auto 0;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.30);
@@ -108,7 +108,7 @@ form {
 
 #title3 {
   text-decoration: none;
-  color: rgb(147, 227, 235);
+  color: rgb(246, 214, 175);
   float: left;
 }
 
