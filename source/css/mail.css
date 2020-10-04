@@ -44,7 +44,7 @@ h1 {
   position: absolute;
   bottom: 128px;
   left: 0px;
-  background: url('../img/before.png');
+  background: url('https://cdn.jsdelivr.net/gh/Akilarlxh/Valine-Admin/source/img/before.png');
   width: 530px;
   height: 317px;
 }
@@ -54,7 +54,7 @@ h1 {
   position: absolute;
   bottom: 0px;
   left: 0;
-  background: url('../img/after.png');
+  background: url('https://cdn.jsdelivr.net/gh/Akilarlxh/Valine-Admin/source/img/after.png');
   width: 530px;
   height: 259px;
 }
