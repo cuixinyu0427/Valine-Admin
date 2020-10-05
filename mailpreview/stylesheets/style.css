@@ -145,7 +145,7 @@ li {
   font-weight: 100;
   text-align: center;
   align-items: center;
-  margin-top: 4rem
+  margin-top: 4rem;
 }
 
 .gh-signup {
@@ -161,7 +161,8 @@ li {
   border: 1px solid #dae1e3;
   background: #f8fbfd;
   border-radius: 5px;
-  text-align: left
+  text-align: left;
+  background:rgba(0,0,0,0.7);
 }
 
 .gh-signin .form-group {
