@@ -39,11 +39,10 @@ a:hover:before {
   font-weight: bold;
   font-size: 4rem;
   color: white;
-  text-align: center;
   font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif
 }
 
-@media screen and(max-width:300px) {
+@media screen and(max-width:550px) {
   .title {
     font-size: 2rem
   }
