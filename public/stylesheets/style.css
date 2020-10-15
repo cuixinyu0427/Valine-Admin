@@ -38,6 +38,7 @@ a:hover:before {
 .title {
   font-weight: bold;
   font-size: 4rem;
+  text-align: center;
   color: white;
   font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif
 }
